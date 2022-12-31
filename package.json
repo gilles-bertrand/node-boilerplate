@@ -1,7 +1,6 @@
 {
-  "name": "@triptyk/node-boilerplate",
+  "name": "@gilles-bertrand/node-boilerplate.git",
   "version": "0.0.0-alpha.0",
-  "description": "![alt text](https://repository-images.githubusercontent.com/166414581/dc0a1b80-a1a0-11e9-805b-cf8be46b5507)",
   "main": "dist/index.js",
   "scripts": {
     "test": "NODE_ENV=test node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand",
@@ -20,7 +19,7 @@
   "dependencies": {
     "reflect-metadata": "~0.1.13"
   },
-  "homepage": "https://github.com/TRIPTYK/nfw#readme",
+  "homepage": "https://github.com/gilles-bertrand/node-boilerplate#readme",
   "devDependencies": {
     "@jest/globals": "^29.2.2",
     "@rollup/plugin-node-resolve": "~15.0.1",
